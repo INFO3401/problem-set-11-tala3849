@@ -90,6 +90,8 @@ runAnova(rawData, moreComplex)
     # stat test - chi squared 
     
 #Question 2 
+
+# Based off of running the tests, it does not seem biased becasue there does not seem to be factors that stand out in which they heavily impact or influence they admission. 
     
     
 ################################
